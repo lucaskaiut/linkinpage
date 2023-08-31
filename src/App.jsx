@@ -10,7 +10,7 @@ function App() {
       <span className=" mt-[-10px] mb-10">Trazendo alegria em forma de doces</span>
       <Link label="Instagram" link="https://instagram.com/doce__bistro/"/>
       <Link label="WhatsApp" link="https://wa.me/+5541988475554"/>
-      <Link label="iFood" link="https://ifood.com" />
+      <Link label="iFood" link="https://www.ifood.com.br/delivery/curitiba-pr/doce-bistro-tatuquara/6868a062-ef2b-43bc-a1d2-2b372d09ca80" />
     </div>
   )
 }
